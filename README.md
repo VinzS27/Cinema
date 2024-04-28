@@ -8,4 +8,4 @@
 <p id="description">- About us: description of the cinema and location on the map (Google maps).</p>
 <p id="description">- Contact us: contact email for any problems.</p>
 
-<img src="https://github.com/VinzS27/Cinema/assets/94700172/093d2197-36ed-4f8f-9601-5f7158924a6f" width="350" height="350">
+<img src="https://github.com/VinzS27/Cinema/assets/94700172/093d2197-36ed-4f8f-9601-5f7158924a6f" width="1050" height="550">
